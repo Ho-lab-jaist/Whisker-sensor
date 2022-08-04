@@ -6,3 +6,6 @@ Nature is featured by the resiliency, which enables adaptivity to sudden change 
 We demonstrate that changing the morphology of the whisker again helps to reduce mismatching between prior knowledge in the frequency/time domain of the sensory signal. This allows the sensory whisker to recover the tactile perception on texture discrimination after the whisker is partially damaged. Furthermore, we also observe that the using adaptive sensor morphology would augment tactile perception without the need of computationally expensive recognition and re-classification. This work is expected to shed a light on a new generation of robots that automatically work in the open world where self-maintenance against uncertainties is needed.
 # Database
 Raw data used in this project can be found here: https://drive.google.com/drive/folders/1oKjf4PjfTXIgzhNqt-0lrV5dXCrUjsKF?usp=sharing
+# Supportive materials:
+Paper in Soft Robotics (SORO) journal: https://doi.org/10.1089/soro.2020.0056
+Paper in IEEE Robotics and Automation Letters (RAL): https://doi.org/10.1109/LRA.2021.3064460
