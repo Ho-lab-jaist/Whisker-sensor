@@ -21,7 +21,6 @@ def FFT(dataset, plot):
     centroid = np.sum(freq[lowpass_order_filltered:(300 - highpass_order_filltered)]
                       * mag[lowpass_order_filltered:(300 - highpass_order_filltered)]) / np.sum(
         mag[lowpass_order_filltered:(300 - highpass_order_filltered)])
-#     centroid = np.sum(freq[lowpass_order_filltered:(600 - 1)]* mag[lowpass_order_filltered:(600 - 1)]) / np.sum(mag[lowpass_order_filltered:(600 - 1)])
     sum_energy = np.sum(mag[lowpass_order_filltered:(len(L) - highpass_order_filltered)])
     weight_mean_amplitude = np.sum(freq[lowpass_order_filltered:(300 - highpass_order_filltered)]
                                    * mag[lowpass_order_filltered:(300 - highpass_order_filltered)]) / np.sum(
