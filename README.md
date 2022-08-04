@@ -7,5 +7,5 @@ We demonstrate that changing the morphology of the whisker again helps to reduce
 # Database
 Raw data used in this project can be found here: https://drive.google.com/drive/folders/1oKjf4PjfTXIgzhNqt-0lrV5dXCrUjsKF?usp=sharing
 # Supportive materials:
-Paper in Soft Robotics (SORO) journal: https://doi.org/10.1089/soro.2020.0056
-Paper in IEEE Robotics and Automation Letters (RAL): https://doi.org/10.1109/LRA.2021.3064460
+1. Paper in Soft Robotics (SORO) journal: https://doi.org/10.1089/soro.2020.0056
+2. Paper in IEEE Robotics and Automation Letters (RAL): https://doi.org/10.1109/LRA.2021.3064460
