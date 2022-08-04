@@ -9,3 +9,5 @@ Raw data used in this project can be found here: https://drive.google.com/drive/
 # Supportive materials:
 1. Paper in Soft Robotics (SORO) journal: https://doi.org/10.1089/soro.2020.0056
 2. Paper in IEEE Robotics and Automation Letters (RAL): https://doi.org/10.1109/LRA.2021.3064460
+## Notices:
+1. In database, data for texture named Knurklebump (KB) is actually Pyramidbump (PB) in the paper
