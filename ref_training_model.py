@@ -38,9 +38,7 @@ def main():
     # fit model
     chainregression = RegressorChain(LR_model, order=[0, 1, 2, 3, 4])
     chain = chainregression.fit(x_train, y_train)
-    joblib.dump(chain,
-                "C:\\Users\\nhnha\\OneDrive\\Desktop\\Whisker paper\\Frontier 2022\\classifier_py\\LR_clf.joblib")
-    print()
+
     test = chain.predict(x_test)
     LR_score = chainregression.score(x_test, y_test)
     return LR_score
